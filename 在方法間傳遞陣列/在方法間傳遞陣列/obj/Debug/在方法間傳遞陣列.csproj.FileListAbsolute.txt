@@ -1,0 +1,7 @@
+D:\C#程式碼\在方法間傳遞陣列\在方法間傳遞陣列\obj\Debug\在方法間傳遞陣列.csprojAssemblyReference.cache
+D:\C#程式碼\在方法間傳遞陣列\在方法間傳遞陣列\obj\Debug\在方法間傳遞陣列.csproj.CoreCompileInputs.cache
+D:\C#程式碼\在方法間傳遞陣列\在方法間傳遞陣列\bin\Debug\在方法間傳遞陣列.exe.config
+D:\C#程式碼\在方法間傳遞陣列\在方法間傳遞陣列\bin\Debug\在方法間傳遞陣列.exe
+D:\C#程式碼\在方法間傳遞陣列\在方法間傳遞陣列\bin\Debug\在方法間傳遞陣列.pdb
+D:\C#程式碼\在方法間傳遞陣列\在方法間傳遞陣列\obj\Debug\在方法間傳遞陣列.exe
+D:\C#程式碼\在方法間傳遞陣列\在方法間傳遞陣列\obj\Debug\在方法間傳遞陣列.pdb

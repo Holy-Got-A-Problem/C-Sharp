@@ -1,0 +1,7 @@
+D:\C#程式碼\引數傳遞呼叫\引數傳遞呼叫\bin\Debug\引數傳遞呼叫.exe.config
+D:\C#程式碼\引數傳遞呼叫\引數傳遞呼叫\bin\Debug\引數傳遞呼叫.exe
+D:\C#程式碼\引數傳遞呼叫\引數傳遞呼叫\bin\Debug\引數傳遞呼叫.pdb
+D:\C#程式碼\引數傳遞呼叫\引數傳遞呼叫\obj\Debug\引數傳遞呼叫.csprojAssemblyReference.cache
+D:\C#程式碼\引數傳遞呼叫\引數傳遞呼叫\obj\Debug\引數傳遞呼叫.csproj.CoreCompileInputs.cache
+D:\C#程式碼\引數傳遞呼叫\引數傳遞呼叫\obj\Debug\引數傳遞呼叫.exe
+D:\C#程式碼\引數傳遞呼叫\引數傳遞呼叫\obj\Debug\引數傳遞呼叫.pdb

@@ -1,0 +1,7 @@
+D:\C#程式碼\程式練習簿\程式練習簿\bin\Debug\程式練習簿.exe.config
+D:\C#程式碼\程式練習簿\程式練習簿\bin\Debug\程式練習簿.exe
+D:\C#程式碼\程式練習簿\程式練習簿\bin\Debug\程式練習簿.pdb
+D:\C#程式碼\程式練習簿\程式練習簿\obj\Debug\程式練習簿.csprojAssemblyReference.cache
+D:\C#程式碼\程式練習簿\程式練習簿\obj\Debug\程式練習簿.csproj.CoreCompileInputs.cache
+D:\C#程式碼\程式練習簿\程式練習簿\obj\Debug\程式練習簿.exe
+D:\C#程式碼\程式練習簿\程式練習簿\obj\Debug\程式練習簿.pdb
