@@ -1,0 +1,7 @@
+C:\Users\HOLY\Desktop\Github本機檔案\C#\堆疊\堆疊\bin\Debug\堆疊.exe.config
+C:\Users\HOLY\Desktop\Github本機檔案\C#\堆疊\堆疊\bin\Debug\堆疊.exe
+C:\Users\HOLY\Desktop\Github本機檔案\C#\堆疊\堆疊\bin\Debug\堆疊.pdb
+C:\Users\HOLY\Desktop\Github本機檔案\C#\堆疊\堆疊\obj\Debug\堆疊.csprojAssemblyReference.cache
+C:\Users\HOLY\Desktop\Github本機檔案\C#\堆疊\堆疊\obj\Debug\堆疊.csproj.CoreCompileInputs.cache
+C:\Users\HOLY\Desktop\Github本機檔案\C#\堆疊\堆疊\obj\Debug\堆疊.exe
+C:\Users\HOLY\Desktop\Github本機檔案\C#\堆疊\堆疊\obj\Debug\堆疊.pdb
