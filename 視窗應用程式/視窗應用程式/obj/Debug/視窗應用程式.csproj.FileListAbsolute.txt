@@ -1,0 +1,10 @@
+C:\Users\HOLY\Desktop\Github本機檔案\C#\視窗應用程式\視窗應用程式\bin\Debug\視窗應用程式.exe.config
+C:\Users\HOLY\Desktop\Github本機檔案\C#\視窗應用程式\視窗應用程式\bin\Debug\視窗應用程式.exe
+C:\Users\HOLY\Desktop\Github本機檔案\C#\視窗應用程式\視窗應用程式\bin\Debug\視窗應用程式.pdb
+C:\Users\HOLY\Desktop\Github本機檔案\C#\視窗應用程式\視窗應用程式\obj\Debug\視窗應用程式.csprojAssemblyReference.cache
+C:\Users\HOLY\Desktop\Github本機檔案\C#\視窗應用程式\視窗應用程式\obj\Debug\視窗應用程式.Form1.resources
+C:\Users\HOLY\Desktop\Github本機檔案\C#\視窗應用程式\視窗應用程式\obj\Debug\視窗應用程式.Properties.Resources.resources
+C:\Users\HOLY\Desktop\Github本機檔案\C#\視窗應用程式\視窗應用程式\obj\Debug\視窗應用程式.csproj.GenerateResource.cache
+C:\Users\HOLY\Desktop\Github本機檔案\C#\視窗應用程式\視窗應用程式\obj\Debug\視窗應用程式.csproj.CoreCompileInputs.cache
+C:\Users\HOLY\Desktop\Github本機檔案\C#\視窗應用程式\視窗應用程式\obj\Debug\視窗應用程式.exe
+C:\Users\HOLY\Desktop\Github本機檔案\C#\視窗應用程式\視窗應用程式\obj\Debug\視窗應用程式.pdb

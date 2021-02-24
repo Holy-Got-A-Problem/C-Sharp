@@ -1,0 +1,7 @@
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立屬性\建立屬性\bin\Debug\建立屬性.exe.config
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立屬性\建立屬性\bin\Debug\建立屬性.exe
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立屬性\建立屬性\bin\Debug\建立屬性.pdb
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立屬性\建立屬性\obj\Debug\建立屬性.csprojAssemblyReference.cache
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立屬性\建立屬性\obj\Debug\建立屬性.csproj.CoreCompileInputs.cache
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立屬性\建立屬性\obj\Debug\建立屬性.exe
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立屬性\建立屬性\obj\Debug\建立屬性.pdb

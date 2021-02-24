@@ -1,0 +1,6 @@
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立類別\建立類別\obj\Debug\建立類別.csproj.CoreCompileInputs.cache
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立類別\建立類別\bin\Debug\建立類別.exe.config
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立類別\建立類別\bin\Debug\建立類別.exe
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立類別\建立類別\bin\Debug\建立類別.pdb
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立類別\建立類別\obj\Debug\建立類別.exe
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立類別\建立類別\obj\Debug\建立類別.pdb

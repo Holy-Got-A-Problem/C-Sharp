@@ -1,0 +1,7 @@
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立方法\建立方法\bin\Debug\建立方法.exe.config
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立方法\建立方法\bin\Debug\建立方法.exe
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立方法\建立方法\bin\Debug\建立方法.pdb
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立方法\建立方法\obj\Debug\建立方法.csprojAssemblyReference.cache
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立方法\建立方法\obj\Debug\建立方法.csproj.CoreCompileInputs.cache
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立方法\建立方法\obj\Debug\建立方法.exe
+C:\Users\HOLY\Desktop\Github本機檔案\C#\建立方法\建立方法\obj\Debug\建立方法.pdb

@@ -1,0 +1,7 @@
+C:\Users\HOLY\source\repos\建立方法2\建立方法2\bin\Debug\建立方法2.exe.config
+C:\Users\HOLY\source\repos\建立方法2\建立方法2\bin\Debug\建立方法2.exe
+C:\Users\HOLY\source\repos\建立方法2\建立方法2\bin\Debug\建立方法2.pdb
+C:\Users\HOLY\source\repos\建立方法2\建立方法2\obj\Debug\建立事件.csprojAssemblyReference.cache
+C:\Users\HOLY\source\repos\建立方法2\建立方法2\obj\Debug\建立事件.csproj.CoreCompileInputs.cache
+C:\Users\HOLY\source\repos\建立方法2\建立方法2\obj\Debug\建立方法2.exe
+C:\Users\HOLY\source\repos\建立方法2\建立方法2\obj\Debug\建立方法2.pdb
